@@ -1,0 +1,1 @@
+This .NET console application is used to test Email Relay services. 
