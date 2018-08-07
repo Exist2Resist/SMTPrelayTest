@@ -1,0 +1,2 @@
+This .NET console application is used to Notify Administrators of Files being out of date in a folder.
+Threshhold is set by ini file. 

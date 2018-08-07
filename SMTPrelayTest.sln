@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPrelayTest", "SMTPrelayTest\SMTPrelayTest.csproj", "{56D14DC9-48CB-462C-85D4-81E739835477}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateDiffNotify", "SMTPrelayTest\DateDiffNotify.csproj", "{56D14DC9-48CB-462C-85D4-81E739835477}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A892C416-4214-4AAC-B0A8-06A9E6831A95}"
 	ProjectSection(SolutionItems) = preProject
-		SMTP relay test.txt = SMTP relay test.txt
+		Date Difference Norification.txt = Date Difference Norification.txt
 	EndProjectSection
 EndProject
 Global
